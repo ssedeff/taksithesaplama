@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\taksitli satış\taksitli satış\bin\Debug\taksitli satış.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\taksitli satış\taksitli satış\bin\Debug\taksitli satış.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\taksitli satış\taksitli satış\bin\Debug\taksitli satış.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\taksitli satış\taksitli satış\obj\Debug\taksitli satış.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\taksitli satış\taksitli satış\obj\Debug\taksitli satış.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\taksitli satış\taksitli satış\obj\Debug\taksitli_satış.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\taksitli satış\taksitli satış\obj\Debug\taksitli_satış.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\taksitli satış\taksitli satış\obj\Debug\taksitli satış.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\taksitli satış\taksitli satış\obj\Debug\taksitli satış.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\taksitli satış\taksitli satış\obj\Debug\taksitli satış.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\taksitli satış\taksitli satış\obj\Debug\taksitli satış.pdb
